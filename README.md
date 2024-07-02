@@ -6,6 +6,8 @@ git clone https://github.com/SoloTech01/KeySpy.git
 
 cd KeySpy
 
+pip install -r requirements.txt
+
 python3 keyspy.py
 
 **DISCLAIMER**
